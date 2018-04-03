@@ -9,7 +9,7 @@ int main()
 
     d1.setMonth(0);
 
-   // printf("%d \n", d1.getMonth());
+   // printf("%d \n", d1.getMonth()); //commentaire
 
     cout << d1.getMonth() << endl;
 
